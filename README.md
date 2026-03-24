@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack
 
 **Design & 3D Modeling:**
-![SolidWorks]((https://www.solidworks.com/)
+![SolidWorks](https://www.solidworks.com/)
 ![CATIA](https://discover.3ds.com/ko/3dexperience-catia-industry-leading-product-design-and-engineering-software?utm_medium=cpc&utm_source=google&utm_campaign=202201_glo_sea_ko_op51508_labl_brand-top_kor_all&utm_term=catia&utm_content=search&gad_source=1&gad_campaignid=19644670207&gbraid=0AAAAADqOeJR-twRMA_re6WepRyUoiL2XN&gclid=CjwKCAjwyYPOBhBxEiwAgpT8PwIrhwY_R_QRBCmGyp3pcOu2-yYBo7C47urKk5zjHxKD7zE0-m16wxoCQIEQAvD_BwE)
 
 **Tools & Skills:** `Automotive Engineering` | `EV Motor Assembly Fixtures` | `Telemetry Systems` | `Product Design` 
