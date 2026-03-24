@@ -11,8 +11,9 @@
 ### 🛠 Tech Stack
 
 **Design & 3D Modeling:**
-![SolidWorks]
-![CATIA]
+[SolidWorks]
+[CATIA]
+
 **Tools & Skills:** `Automotive Engineering` | `EV Motor Assembly Fixtures` | `Telemetry Systems` | `Product Design` 
 
 ---
