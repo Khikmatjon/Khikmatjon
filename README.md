@@ -11,8 +11,8 @@
 ### 🛠 Tech Stack
 
 **Design & 3D Modeling:**
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-E32224?style=flat&logo=solidworks&logoColor=white)
-![CATIA](https://img.shields.io/badge/-CATIA-0055A5?style=flat&logo=dassaultsystèmes&logoColor=white)
+![SolidWorks]([https://img.shields.io/badge/-SolidWorks-E32224?style=flat&logo=solidworks&logoColor=white](https://www.solidworks.com/))
+![CATIA]([https://img.shields.io/badge/-CATIA-0055A5?style=flat&logo=dassaultsystèmes&logoColor=white](https://discover.3ds.com/ko/3dexperience-catia-industry-leading-product-design-and-engineering-software?utm_medium=cpc&utm_source=google&utm_campaign=202201_glo_sea_ko_op51508_labl_brand-top_kor_all&utm_term=catia&utm_content=search&gad_source=1&gad_campaignid=19644670207&gbraid=0AAAAADqOeJR-twRMA_re6WepRyUoiL2XN&gclid=CjwKCAjwyYPOBhBxEiwAgpT8PwIrhwY_R_QRBCmGyp3pcOu2-yYBo7C47urKk5zjHxKD7zE0-m16wxoCQIEQAvD_BwE))
 
 **Tools & Skills:** `Automotive Engineering` | `EV Motor Assembly Fixtures` | `Telemetry Systems` | `Product Design` 
 
